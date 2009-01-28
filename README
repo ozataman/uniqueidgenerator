@@ -1,0 +1,9 @@
+UniqueIdGenerator
+=================
+
+A tiny plugin to generate unique keys.
+
+Code has been extracted from the ActiveMerchant library.
+
+
+Copyright (c) 2009 Ozgun Ataman, released under the MIT license
